@@ -176,8 +176,12 @@ cd levelup
 npm install
 ```
 
-3. **Configure Firebase**
-- Update `src/firebase.js` with your Firebase project credentials
+3. **Configure Environment Variables**
+- Copy `.env.example` to `.env.local`:
+```bash
+cp .env.example .env.local
+```
+- Add your Firebase credentials to `.env.local`
 
 4. **Run development server**
 ```bash
