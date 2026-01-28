@@ -1,26 +1,10 @@
-# LevelUp - Gamified Learning Platform 🚀
+# LevelUp - Gamified Learning Platform 
 
 A modern, interactive web application designed to enhance learning through engaging games and analytics. Built with React, Vite, and Firebase, LevelUp provides users with a comprehensive platform to develop critical thinking, language, and problem-solving skills.
 
 ---
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Scripts](#scripts)
-- [Components](#components)
-- [Games](#games)
-- [Authentication](#authentication)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
-## ✨ Features
+##  Features
 
 - **Interactive Games**: Multiple engaging games including Tic-Tac-Toe, Word Games, Sudoku, Typing Game, and more
 - **User Authentication**: Secure Firebase-based authentication system
@@ -33,7 +17,7 @@ A modern, interactive web application designed to enhance learning through engag
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React 18.3.1** - UI library
@@ -60,7 +44,7 @@ A modern, interactive web application designed to enhance learning through engag
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 LevelUp/
@@ -100,7 +84,7 @@ LevelUp/
 
 ---
 
-## 🎮 Games
+##  Games
 
 ### 1. **Math Quiz**
 - Solve random mathematical problems (addition, subtraction, multiplication, division)
@@ -142,7 +126,7 @@ LevelUp/
 
 ---
 
-## 🔐 Authentication
+##  Authentication
 
 The application uses **Firebase Authentication** for secure user management:
 
@@ -156,7 +140,7 @@ Firebase credentials are configured in `src/firebase.js`. Make sure to update wi
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ### Prerequisites
 - Node.js 16+ 
@@ -192,7 +176,7 @@ The application will open at `http://localhost:5173`
 
 ---
 
-## 🚀 Scripts
+##  Scripts
 
 ```bash
 # Start development server with HMR
@@ -210,7 +194,7 @@ npm run lint
 
 ---
 
-## 📊 Components
+##  Components
 
 | Component | Purpose |
 |-----------|---------|
@@ -224,7 +208,7 @@ npm run lint
 
 ---
 
-## 🎨 Styling
+##  Styling
 
 - **Tailwind CSS** for utility-first styling
 - **Responsive Design** - Mobile, tablet, and desktop optimized
@@ -233,7 +217,7 @@ npm run lint
 
 ---
 
-## 🔧 Configuration
+##  Configuration
 
 ### Vite
 - Fast HMR (Hot Module Replacement)
@@ -252,7 +236,7 @@ npm run lint
 
 ---
 
-## 📈 Performance Optimization
+##  Performance Optimization
 
 - Code splitting for production builds
 - Optimized asset delivery
@@ -261,7 +245,7 @@ npm run lint
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -279,19 +263,19 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
-## 👥 Authors
+##  Authors
 
 **LevelUp Development Team**
 
 ---
 
-## 🐛 Known Issues
+##  Known Issues
 
 - Large bundle size (500kb+) - Consider code splitting for future optimization
 - Browserslist database requires updates
@@ -299,7 +283,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## 🚧 Future Enhancements
+##  Future Enhancements
 
 - [ ] Multiplayer real-time games
 - [ ] Mobile app (React Native)
@@ -312,10 +296,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## 📞 Support
+##  Support
 
 For issues, feature requests, or questions, please open an issue on the repository.
 
 ---
 
-**Happy Learning! 🎓✨**
+**Happy Learning! **
